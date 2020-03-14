@@ -27,7 +27,7 @@ Il s'agit d'un pseudonyme, d'une couverture, d'une fausse identité.
 
 ### Nos biens, les contrôles de sécurité, les menaces et nos adversaires
 
-![useful image]({{ site.url }}/assets/1.png)
+![useful image]({{ site.url }}/assets/1.jpg)
 
 (image en cours de traduction)
 
