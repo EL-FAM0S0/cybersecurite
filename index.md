@@ -27,6 +27,10 @@ Il s'agit d'un pseudonyme, d'une couverture, d'une fausse identité.
 
 ### Nos biens, les contrôles de sécurité, les menaces et nos adversaires
 
+![useful image]({{ site.url }}/assets/1.png)
+
+(image en cours de traduction)
+
 Nos biens sont les choses qui nous tiennent à cœur. Les choses que nous voulons garder privées comme nos fichiers, nos comptes, nos finances, nos courriels et les choses qui peuvent avoir un lien avec notre identité (l'historique de notre navigateur, ce que nous téléchargeons, ce que nous publions, etc.)
 ). Les biens sont individuels et adaptés à vos besoins personnels.
 
